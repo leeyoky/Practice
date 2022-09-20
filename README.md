@@ -4,7 +4,7 @@ team1 DengStiny Lim,Dong-Hun Lee,Yeong-Kyung  <br>
 team2 산책가자 한수진 김원봉 최용준 박상영 
 
 
-####DengStiny
+# DengStiny
 
 ## Final Project of Soldesk
-## A web page to help with the adoption and rescue of abandoned animals
+A web page to help with the adoption and rescue of abandoned animals
