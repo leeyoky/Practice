@@ -10,6 +10,14 @@ Final Project of Soldesk <br>
 Project period 2022.08.04 ~ 2022.09.09 <br>
 A web page to help with the adoption and rescue of abandoned animals. <br>
 
+## Member
+
+|Lim,Dong-Hun|Lee,Yeong-Kyung|
+|:------:|:------:|
+|Member|CSS|
+|Store|Review|
+|dla_ehdgns@naver.com|leeyoky@naver.com|
+
 ## Main Home
 ![Main Home](https://user-images.githubusercontent.com/107028682/191168790-1dd734b4-da3b-4fae-9a72-da24a6d79b51.png)
 
@@ -22,10 +30,4 @@ A web page to help with the adoption and rescue of abandoned animals. <br>
 ## Store Review
 ![Review](https://user-images.githubusercontent.com/107028682/191169496-bfb06c19-ee3e-4d8b-bae4-fa5e6b784b72.png)
 
-## Member
 
-|Lim,Dong-Hun|Lee,Yeong-Kyung|
-|:------:|:------:|
-|Member|CSS|
-|Store|Review|
-|dla_ehdgns@naver.com|leeyoky@naver.com|
