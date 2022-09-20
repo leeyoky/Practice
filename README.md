@@ -28,4 +28,4 @@ A web page to help with the adoption and rescue of abandoned animals. <br>
 |:------:|:------:|
 |Member|CSS|
 |Store|Review|
-
+|dla_ehdgns@naver.com|leeyoky@naver.com|
