@@ -25,7 +25,7 @@ A web page to help with the adoption and rescue of abandoned animals. <br>
 ## Member
 
 |Lim,Dong-Hun|Lee,Yeong-Kyung|
-|------|---|
+|:------:|:------:|
 |Member|CSS|
 |Store|Review|
 
