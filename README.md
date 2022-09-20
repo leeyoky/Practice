@@ -1,6 +1,6 @@
 # Team12FinalProject
-soldesk final project 
-team1 DengStiny Lim,Dong-Hun Lee,Yeong-Kyung 
+soldesk final project <br>
+team1 DengStiny Lim,Dong-Hun Lee,Yeong-Kyung  <br>
 team2 산책가자 한수진 김원봉 최용준 박상영 
 
 
