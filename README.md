@@ -22,3 +22,10 @@ A web page to help with the adoption and rescue of abandoned animals. <br>
 ## Store Review
 ![Review](https://user-images.githubusercontent.com/107028682/191169496-bfb06c19-ee3e-4d8b-bae4-fa5e6b784b72.png)
 
+## Member
+
+|Lim,Dong-Hun|Lee,Yeong-Kyung|
+|------|---|
+|Member|CSS|
+|Store|Review|
+
